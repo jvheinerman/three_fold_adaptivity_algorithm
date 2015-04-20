@@ -1,0 +1,10 @@
+#Experiment variables
+disable_sensor: 0.3
+evolution: 1
+sociallearning: 1
+threshold: 0.0
+total_evals: 800
+max_robot_lifetime: 100
+genome_tournament_size: 2
+mutate_sensor: 0.05
+experimentname: ESYT00/
